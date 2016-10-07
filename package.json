@@ -1,0 +1,14 @@
+{
+  "name": "mark-down-to-html",
+  "version": "1.0.0",
+  "description": "This converts a .md file to a .html file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Russell Murray",
+  "license": "ISC",
+  "dependencies": {
+    "marked": "^0.3.6"
+  }
+}
